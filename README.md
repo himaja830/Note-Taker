@@ -7,6 +7,10 @@
 * Back-End: Node.js,Express server.
 * Deployed through Heroku
 
+## Links:
+* [Deployed link](https://guarded-cliffs-85665.herokuapp.com/)
+* [link to repo](https://github.com/himaja830/Note-Taker)
+
 
 
 
